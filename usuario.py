@@ -13,3 +13,4 @@ class Usuario:
             if tarea.estaLista():
                 print(f"[X] {tarea.obtenerNombre()}" )
                 print(f"[ ] {tarea.obtenerNombre()}" )
+                print("hola mundo")
